@@ -187,3 +187,9 @@ FakesAssemblies/
 GeneratedArtifacts/
 _Pvt_Extensions/
 ModelManifest.xml
+
+!dll/Debug
+!dll/Debug/*.pdb
+
+!dll/Release
+!dll/Release/*.pdb
