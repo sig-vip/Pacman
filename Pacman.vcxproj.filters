@@ -29,13 +29,13 @@
     <ClInclude Include="src\game.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="include\DGLE.h">
+    <ClInclude Include="DGLE\include\cpp\DGLE.h">
       <Filter>include</Filter>
     </ClInclude>
-    <ClInclude Include="include\DGLE_CoreRenderer.h">
+    <ClInclude Include="DGLE\include\cpp\DGLE_CoreRenderer.h">
       <Filter>include</Filter>
     </ClInclude>
-    <ClInclude Include="include\DGLE_Types.h">
+    <ClInclude Include="DGLE\include\cpp\DGLE_Types.h">
       <Filter>include</Filter>
     </ClInclude>
   </ItemGroup>

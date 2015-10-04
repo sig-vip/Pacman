@@ -1,0 +1,3 @@
+[submodule "DGLE"]
+	path = DGLE
+	url = https://github.com/DGLE-HQ/DGLE.git

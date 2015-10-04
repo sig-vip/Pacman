@@ -4,11 +4,7 @@ DGLE_DYNAMIC_FUNC // Include GetEngine and FreeEngine functions to load engine l
 
 #define APP_CAPTION "Pacman"
 
-#ifdef _DEBUG
-#	define DLL_PATH "..\\dll\\Debug\\DGLE.dll"
-#else
-#	define DLL_PATH "..\\dll\\Release\\DGLE.dll"
-#endif
+#define DLL_PATH "..\\DGLE\\bin\\windows\\DGLE.dll"
 
 int WINAPI WinMain(HINSTANCE hInstance, HINSTANCE hPrevInstance, LPSTR lpCmdLine, int nShowCmd)
 {
